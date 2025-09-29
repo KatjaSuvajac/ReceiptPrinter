@@ -1,0 +1,53 @@
+package receiptPrinterPackage.animals;
+
+public class Flower {
+	public static String toPrint = "\r\n newline"
+			+ "\r\n newline"
+			+ "         ;M\";::;;\r\n newline"
+			+ "        ,':;: \"\"'.\r\n newline"
+			+ "       ,M;. ;MM;;M:\r\n newline"
+			+ "       ;MMM::MMMMM:\r\n newline"
+			+ "      ,MMMMM'MMMMM:\r\n newline"
+			+ "      ;MMMMM MMMMMM\r\n newline"
+			+ "      MMMMM::MMMMMM:\r\n newline"
+			+ "      :MM:',;MMMMMM'\r\n newline"
+			+ "      ':: 'MMMMMMM:\r\n newline"
+			+ "        '; :MMMMM\"\r\n newline"
+			+ "           ''\"\"\"'\r\n newline"
+			+ "            .\r\n newline"
+			+ "            M\r\n newline"
+			+ "            M\r\n newline"
+			+ ".           M           .\r\n newline"
+			+ "'M..        M        ,;M'\r\n newline"
+			+ " 'MM;.      M       ;MM:\r\n newline"
+			+ "  :MMM.     M      ;MM:\r\n newline"
+			+ "  'MMM;     M     :MMM:\r\n newline"
+			+ "   MMMM.    M     MMMM:\r\n newline"
+			+ "  :MMMM:    M     MMMM:\r\n newline"
+			+ "  :MMMM:    M    :MMMM:\r\n newline"
+			+ "  :MMMMM    M    ;MMMM:\r\n newline"
+			+ "  'MMMMM;   M   ,MMMMM:\r\n newline"
+			+ "   :MMMMM.  M   ;MMMMM'\r\n newline"
+			+ "    :MMMM;  M  :MMMMM\"\r\n newline"
+			+ "     'MMMM  M  ;MMMM\"\r\n newline"
+			+ "      ':MM  M ,MMM:'\r\n newline"
+			+ "        \"\": M :\"\"'";
+	
+	
+	
+	public static String toConsole = "\r\n"
+			+ "    _,--._.-,\r\n"
+			+ "   /\\_r-,\\_ )\r\n"
+			+ ".-.) _;='_/ (.;\r\n"
+			+ " \\ \\'     \\/S )\r\n"
+			+ "  L.'-. _.'|-'\r\n"
+			+ " <_`-'\\'_.'/\r\n"
+			+ "   `'-._( \\\r\n"
+			+ "    ___   \\\\,      ___\r\n"
+			+ "    \\ .'-. \\\\   .-'_. /\r\n"
+			+ "     '._' '.\\\\/.-'_.'\r\n"
+			+ "        '--``\\('--'\r\n"
+			+ "              \\\\\r\n"
+			+ "              `\\\\,\r\n"
+			+ "                \\| ";
+}
